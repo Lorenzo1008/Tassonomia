@@ -1,0 +1,11 @@
+C:\Users\cad\Documents\Visual Studio 2012\Projects\Tassonomia1\Tassonomia1\bin\Debug\Tassonomia1.exe.config
+D:\VS2012\Tassonomia1 cec\Tassonomia1\bin\Debug\Tassonomia1.exe.config
+E:\VS2012\Tassonomia1 cec\Tassonomia1\bin\Debug\Tassonomia1.exe.config
+D:\VS2012\Tassonomia1 cec\Tassonomia1\obj\Debug\Tassonomia1.csprojResolveAssemblyReference.cache
+D:\VS2012\Tassonomia1 cec\Tassonomia1\bin\Debug\Tassonomia1.exe
+D:\VS2012\Tassonomia1 cec\Tassonomia1\bin\Debug\Tassonomia1.pdb
+D:\VS2012\Tassonomia1 cec\Tassonomia1\obj\Debug\Tassonomia1.exe
+D:\VS2012\Tassonomia1 cec\Tassonomia1\obj\Debug\Tassonomia1.pdb
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\Tassonomia1 cec\Tassonomia1\bin\Debug\Tassonomia1.exe.config
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\Tassonomia1 cec\Tassonomia1\obj\Debug\Tassonomia1.exe
+C:\Users\Lorenzo\Documents\Visual Studio 2012\Projects\Tassonomia1 cec\Tassonomia1\obj\Debug\Tassonomia1.pdb
